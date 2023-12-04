@@ -9,5 +9,6 @@
 1. DAIC WOZ data
 2. Extended DAIC WOZ data
 3. EATD data
-You can apply for the DAIC WOZ and Extended DAIC WOZ access on [DAIC WOZ HOME](https://dcapswoz.ict.usc.edu/) The translated EATD corpus and original translated corpus is provided in folder [EATD Dataset](https://github.com/palak97/IDAIC/tree/master/eatd_data) in this repository. 
+   
+- You can apply for the DAIC WOZ and Extended DAIC WOZ access on [DAIC WOZ HOME](https://dcapswoz.ict.usc.edu/) The translated EATD corpus and original translated corpus is provided in folder [EATD Dataset](https://github.com/palak97/IDAIC/tree/master/eatd_data) in this repository. 
 
