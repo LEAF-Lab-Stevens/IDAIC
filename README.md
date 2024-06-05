@@ -17,6 +17,20 @@
   - Slides: https://github.com/wangpinggl/TREQS/blob/master/TREQS.pdf
   - Presentation Video: [Video](https://drive.google.com/open?id=1tXRaobsz1BWUJpzV976pgox_46c8jkPE](https://drive.google.com/file/d/1HwG_eiURv7OLgFvlNJNR4xVAFIi8t4Ud/view?usp=sharing))
 
+## Citation
+Sood, Palak, Xinming Yang, and Ping Wang. “Enhancing Depression Detection from Narrative Interviews Using Language Models.” In 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 3173-3180. IEEE, 2023.
+
+```
+@inproceedings{sood2023enhancing,
+  title={Enhancing Depression Detection from Narrative Interviews Using Language Models},
+  author={Sood, Palak and Yang, Xinming and Wang, Ping},
+  booktitle={2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={3173--3180},
+  year={2023},
+  organization={IEEE}
+}
+```
+
 ## Results
 
 Here we provide the results of different models presented below. Performance metrics for each class (depression and non-depression) were evaluated separately. The weighted evaluation accounts for label imbalance in the dataset.
